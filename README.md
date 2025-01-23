@@ -1,14 +1,29 @@
-# APS UNIP - RITMO DE CONSUMO
+# RITMO DE CONSUMO - 1ª Semestre / UNIP
 
-![Image](https://github.com/user-attachments/assets/0455aa8a-0c59-477f-b729-9d4103fea707)
+Este projeto é referente à uma atividade prática supervisionada da faculdade de Ciência da Computação da Universidade Paulista, do 1ª semestre do curso (2023/1).
 
-Este é o trabalho de Atvidades Praticas da Universidade Paulista - UNIP com o tema Sustentabilidade, e Ritmo de Consumo como subtema escolhido pelo grupo.
+O seu tema é 'Ritmo de Consumo', um tmea mais do que importante para pautas atuais. Diante de tanta globalização, muitos problemas são atraídos de maneira sútil, e só percebemos num cenário extremo, como as grandes temporadas de altas temperaturas.
+Nossa missão é proporcionar todo o conteúdo sobre sustentabilidade, com destaque para Sorocaba e região, para você. Enquanto isso, você também tem uma missão: explorar os recursos, e se envolver em toda a nossa aplicação web, que conta com uma interface agrádevel, intuitiva e de textos concisos.
 
+DICA: tente interagir com os icones, para ter acesso a mais informações.
 
-Os integrantes do Grupo estão:
+![Image](https://github.com/user-attachments/assets/06150715-f44d-432d-92ee-29f61bc1e6e7)
 
-Gabriel dos Santos Alves
-Nicholas Pereira de Brites Nascimento
-Nicolas Machado Fogaça
+![Image](https://github.com/user-attachments/assets/6efe6e0f-a2f1-4d86-9209-d199b44c7042)
 
-Segue link do site: https://nicolasmachad0.github.io/Aps_unip/Index.html
+![Image](https://github.com/user-attachments/assets/d993015b-adc4-41fb-a349-3dcb0c455bd5)
+
+![Image](https://github.com/user-attachments/assets/ab8c93ca-cf96-429a-ada6-41b820afa90c)
+
+# Tecnologias usadas
+- HTML
+- CSS
+- JavaScript
+
+# Integrantes
+
+Gabriel Alves https://www.linkedin.com/in/galvessantos/
+
+Nicholas Brites https://www.linkedin.com/in/nicholas-brites-73b92121a/
+
+Nicolas Machado https://www.linkedin.com/in/nicolas-machado-foga%C3%A7a-70607a248/
