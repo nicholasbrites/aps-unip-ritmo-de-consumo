@@ -1,5 +1,9 @@
 # APS UNIP - RITMO DE CONSUMO
+
+![Image](https://github.com/user-attachments/assets/aaa86c1e-a6e6-46d4-92c7-bd59e93e7ed1)
+
 Este é o trabalho de Atvidades Praticas da Universidade Paulista - UNIP com o tema Sustentabilidade, e Ritmo de Consumo como subtema escolhido pelo grupo.
+
 
 Os integrantes do Grupo estão:
 
