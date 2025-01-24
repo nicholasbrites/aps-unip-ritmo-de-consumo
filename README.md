@@ -1,4 +1,4 @@
-# RITMO DE CONSUMO - 1ª Semestre / UNIP
+# RITMO DE CONSUMO - 1º Semestre / UNIP
 
 Este projeto é referente à uma atividade prática supervisionada da faculdade de Ciência da Computação da Universidade Paulista, do 1ª semestre do curso (2023/1).
 
