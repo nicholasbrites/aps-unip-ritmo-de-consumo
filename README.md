@@ -20,6 +20,11 @@ DICA: tente interagir com os icones, para ter acesso a mais informações.
 - CSS
 - JavaScript
 
+# Documento
+
+Caso queira conferir um documento mais desenvolvido sobre o tema e ler sobre o desenvolvimento, nós também escrevemos um documento, na norma ABNT, em meio todo este projeto. Segue o anexo.
+[1SEM-desenv.-web-ritmo-de-consumo.pdf](https://github.com/user-attachments/files/18535063/1SEM-desenv.-web-ritmo-de-consumo.pdf)
+
 # Integrantes
 
 Gabriel Alves https://www.linkedin.com/in/galvessantos/
